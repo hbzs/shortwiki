@@ -4,7 +4,7 @@
 
 ### 环境
 
-#### Powershell 刷新环境变量
+#### Powershell 不重启刷新环境变量
 
 ```powershell
 $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
