@@ -13,3 +13,4 @@ $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";"
 ## Github
 
 - [Octo Mate - Chrome 网上应用店](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf/related)
+  - 单文件下载、TOC 侧边目录
